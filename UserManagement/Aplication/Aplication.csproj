@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="DTO\Request\" />
+    <Folder Include="DTO\Response\" />
+    <Folder Include="Interfaces\IRecruiter\" />
+    <Folder Include="Interfaces\IPerson\" />
+    <Folder Include="Interfaces\Applicant\" />
+    <Folder Include="Interfaces\IContactInformation\" />
+    <Folder Include="Interfaces\IUser\" />
+    <Folder Include="Interfaces\ICompany\" />
+    <Folder Include="UseCase\Services\SContactInformation\" />
+    <Folder Include="UseCase\Services\SUser\" />
+    <Folder Include="UseCase\Services\SRecruiter\" />
+    <Folder Include="UseCase\Services\SPerson\" />
+    <Folder Include="UseCase\Services\SCompany\" />
+    <Folder Include="UseCase\Services\SApplicant\" />
+  </ItemGroup>
+
+</Project>
