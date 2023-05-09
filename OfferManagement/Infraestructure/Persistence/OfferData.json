@@ -1,0 +1,130 @@
+﻿[
+
+
+  {
+    "OfferId": "E058B366-F832-42DD-B001-647919FDFD66",
+    "CompanyId": 1,
+    "Title": "Desarrollador .NET Junior/Ssr.",
+    "Description": "Buscamos Desarrollador .NET Junior/Ssr. para sumarse a importante empresa de producto IT, líder en la creación de soluciones para el sector de salud.",
+    "Salary": 200000,
+    "ExperienceId": 3,
+    "ProvinceId": 6,
+    "CityId": 60091,
+    "StudyLevelId": 4,
+    "Date": "2023-04-22 08:05:19.3749336",
+    "Status": "True"
+  },
+
+  {
+    "OfferId": "F1B4F44E-05FB-4062-A247-6830964EF063",
+    "CompanyId": 2,
+    "Title": "Desarrollador .NET Junior.",
+    "Description": "Buscamos Desarrollador .NET Junior/Ssr. para sumarse a importante empresa de producto IT, líder en la creación de soluciones para el sector de salud.",
+    "Salary": 120000,
+    "ExperienceId": 1,
+    "ProvinceId": 6,
+    "CityId": 60658,
+    "StudyLevelId": 3,
+    "Date": "2023-03-22 08:04:50.9286762",
+    "Status": "True"
+  },
+
+  {
+    "OfferId": "EE69BF0E-735F-44FF-9712-96830FDDBF3A",
+    "CompanyId": 2,
+    "Title": "Analista programador/a de sistemas.",
+    "Description": "Buscamos AUXLIAR DE OPERACIONES SISTEMAS.",
+    "Salary": 150000,
+    "ExperienceId": 1,
+    "ProvinceId": 6,
+    "CityId": 60560,
+    "StudyLevelId": 4,
+    "Date": "2023-04-23 08:05:19.3749336",
+    "Status": "True"
+  },
+
+  {
+    "OfferId": "3DA7995A-715F-40B8-8121-B2FFDEE778B0",
+    "CompanyId": 2,
+    "Title": "Desarrollador SQL Server Jr/SSr",
+    "Description": "Buscamos Desarrollador SQL Server Junior/SSR. para sumarse a importante empresa de producto IT, líder en la creación de soluciones para el sector de salud.",
+    "Salary": 220000,
+    "ExperienceId": 3,
+    "ProvinceId": 6,
+    "CityId": 60274,
+    "StudyLevelId": 4,
+    "Date": "2023-05-22 12:13:20.0719537",
+    "Status": "True"
+  },
+
+  {
+    "OfferId": "994EC6D1-3560-4FC6-BE23-E078DEF32527",
+    "CompanyId": 3,
+    "Title": "Desarrollador Java Jr.",
+    "Description": "En Ecosistemas, buscamos un Desarrollador Java Jr/Ssr para sumar al equipo de nuestro cliente, en relación directa con el mismo.",
+    "Salary": 180000,
+    "ExperienceId": 1,
+    "ProvinceId": 6,
+    "CityId": 60091,
+    "StudyLevelId": 2,
+    "Date": "2023-03-22 12:11:59.9750193",
+    "Status": "True"
+  },
+
+  {
+    "OfferId": "4093643C-135B-4368-ACE5-E1783DD3F0F8",
+    "CompanyId": 3,
+    "Title": "Administrador de Infraestructura Ssr.",
+    "Description": "En Ecosistemas estamos en la búsqueda de un Administrador de Backups Ssr/Sr para sumarse a nuestro equipo",
+    "Salary": 250000,
+    "ExperienceId": 3,
+    "ProvinceId": 6,
+    "CityId": 60091,
+    "StudyLevelId": 3,
+    "Date": "2023-04-22 08:05:20.4466304",
+    "Status": "True"
+  },
+
+  {
+    "OfferId": "8A527FD3-962A-4ABF-B18F-EFCDB6004F07",
+    "CompanyId": 3,
+    "Title": "Analista Funcional Jr o Ssr.",
+    "Description": "Desde Ecosistemas nos encontramos en la búsqueda de un Analista Funcional Jr/Ssr, para sumarse al equipo de nuestro cliente, empresa agropecuaria.",
+    "Salary": 200000,
+    "ExperienceId": 2,
+    "ProvinceId": 6,
+    "CityId": 60147,
+    "StudyLevelId": 3,
+    "Date": "2023-04-22 07:50:18.9890830",
+    "Status": "True"
+  },
+
+  {
+    "OfferId": "1D394678-E0EB-4620-A1DE-F01C7768DDB3",
+    "CompanyId": 1,
+    "Title": "Programador Robotista.",
+    "Description": "Importante empresa Autopartista se encuentra en la búsqueda de Programador Robotista.",
+    "Salary": 200000,
+    "ExperienceId": 2,
+    "ProvinceId": 6,
+    "CityId": 60091,
+    "StudyLevelId": 4,
+    "Date": "2023-04-22 10:27:32.8956499",
+    "Status": "True"
+  },
+  {
+    "OfferId": "3B4010D9-E137-465D-9A4B-D97B28B87BBE",
+    "CompanyId": 4,
+    "Title": "Administrador/ Contador.",
+    "Description": "Estamos en la búsqueda de Responsable general para empresa con negocios en rubro inmobiliario y de playas de estacionamiento.",
+    "Salary": 200000,
+    "ExperienceId": 3,
+    "ProvinceId": 6,
+    "CityId": 60441,
+    "StudyLevelId": 5,
+    "Date": "2023-04-23 10:27:32.8956499",
+    "Status": "True"
+  }
+
+
+]
