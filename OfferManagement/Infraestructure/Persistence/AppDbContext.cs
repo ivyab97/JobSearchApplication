@@ -20,8 +20,7 @@ namespace Infraestructure.Persistence
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            // Obtener la ruta de los Precargar datos de Categoria desde el archivo JSON
-
+            // Get path for precharge  data
             string currentDirectory = Directory.GetCurrentDirectory();
             currentDirectory = currentDirectory.Substring(0, currentDirectory.Length - 16);
 
