@@ -15,7 +15,7 @@
     <Folder Include="DTO\Response\" />
     <Folder Include="Interfaces\IRecruiter\" />
     <Folder Include="Interfaces\IPerson\" />
-    <Folder Include="Interfaces\Applicant\" />
+    <Folder Include="Interfaces\IApplicant\" />
     <Folder Include="Interfaces\IContactInformation\" />
     <Folder Include="Interfaces\IUser\" />
     <Folder Include="Interfaces\ICompany\" />
