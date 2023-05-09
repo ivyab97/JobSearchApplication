@@ -1,0 +1,37 @@
+﻿[
+
+  {
+    "ApplicationStatusTypeId": 
+    1,
+    "Name": 
+    "Postulado"
+  },
+
+  {
+    "ApplicationStatusTypeId": 
+    2,
+    "Name": 
+    "CV Visto"
+  },
+
+  {
+    "ApplicationStatusTypeId": 
+    3,
+    "Name": 
+    "En evaluación"
+  },
+
+  {
+    "ApplicationStatusTypeId": 
+    4,
+    "Name": 
+    "Finalista"
+  },
+
+  {
+    "ApplicationStatusTypeId": 
+    5,
+    "Name": 
+    "Proceso finalizado"
+  }
+]

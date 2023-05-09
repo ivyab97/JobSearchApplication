@@ -1,0 +1,48 @@
+﻿[
+
+  {
+    "ExperienceId": 1,
+    "Name": "Sin Experiencia"
+  },
+
+  {
+    "ExperienceId": 2,
+    "Name": "1 Año"
+  },
+
+  {
+    "ExperienceId": 3,
+    "Name": "2 Años"
+  },
+
+  {
+    "ExperienceId": 4,
+    "Name": "3 Años"
+  },
+
+  {
+    "ExperienceId": 5,
+    "Name": "4 Años"
+  },
+
+  {
+    "ExperienceId": 6,
+    "Name": "5 Años"
+  },
+
+  {
+    "ExperienceId": 7,
+    "Name": "6 Años"
+  },
+
+  {
+    "ExperienceId": 8,
+    "Name": "7 Años"
+  },
+
+  {
+    "ExperienceId": 9,
+    "Name": "8 Años"
+  }
+
+]

@@ -1,0 +1,154 @@
+﻿[
+
+
+  {
+    "OfferCategoryId": 1,
+    "OfferId": "E058B366-F832-42DD-B001-647919FDFD66",
+    "CategoryId": 1,
+    "Status": "True"
+  },
+  {
+    "OfferCategoryId": 2,
+    "OfferId": "E058B366-F832-42DD-B001-647919FDFD66",
+    "CategoryId": 3,
+    "Status": "True"
+  },
+  {
+    "OfferCategoryId": 3,
+    "OfferId": "F1B4F44E-05FB-4062-A247-6830964EF063",
+    "CategoryId": 1,
+    "Status": "True"
+  },
+  {
+    "OfferCategoryId": 4,
+    "OfferId": "F1B4F44E-05FB-4062-A247-6830964EF063",
+    "CategoryId": 3,
+    "Status": "True"
+  },
+  {
+    "OfferCategoryId": 5,
+    "OfferId": "EE69BF0E-735F-44FF-9712-96830FDDBF3A",
+    "CategoryId": 1,
+    "Status": "True"
+  },
+  {
+    "OfferCategoryId": 6,
+    "OfferId": "EE69BF0E-735F-44FF-9712-96830FDDBF3A",
+    "CategoryId": 25,
+    "Status": "True"
+  },
+  {
+    "OfferCategoryId": 7,
+    "OfferId": "E058B366-F832-42DD-B001-647919FDFD66",
+    "CategoryId": 33,
+    "Status": "True"
+  },
+  {
+    "OfferCategoryId": 8,
+    "OfferId": "3DA7995A-715F-40B8-8121-B2FFDEE778B0",
+    "CategoryId": 25,
+    "Status": "True"
+  },
+  {
+    "OfferCategoryId": 9,
+    "OfferId": "3DA7995A-715F-40B8-8121-B2FFDEE778B0",
+    "CategoryId": 33,
+    "Status": "True"
+  },
+  {
+    "OfferCategoryId": 10,
+    "OfferId": "994EC6D1-3560-4FC6-BE23-E078DEF32527",
+    "CategoryId": 23,
+    "Status": "True"
+  },
+  {
+    "OfferCategoryId": 11,
+    "OfferId": "994EC6D1-3560-4FC6-BE23-E078DEF32527",
+    "CategoryId": 25,
+    "Status": "True"
+  },
+  {
+    "OfferCategoryId": 12,
+    "OfferId": "994EC6D1-3560-4FC6-BE23-E078DEF32527",
+    "CategoryId": 33,
+    "Status": "True"
+  },
+  {
+    "OfferCategoryId": 13,
+    "OfferId": "4093643C-135B-4368-ACE5-E1783DD3F0F8",
+    "CategoryId": 4,
+    "Status": "True"
+  },
+  {
+    "OfferCategoryId": 14,
+    "OfferId": "4093643C-135B-4368-ACE5-E1783DD3F0F8",
+    "CategoryId": 18,
+    "Status": "True"
+  },
+  {
+    "OfferCategoryId": 15,
+    "OfferId": "4093643C-135B-4368-ACE5-E1783DD3F0F8",
+    "CategoryId": 23,
+    "Status": "True"
+  },
+  {
+    "OfferCategoryId": 16,
+    "OfferId": "4093643C-135B-4368-ACE5-E1783DD3F0F8",
+    "CategoryId": 25,
+    "Status": "True"
+  },
+  {
+    "OfferCategoryId": 17,
+    "OfferId": "4093643C-135B-4368-ACE5-E1783DD3F0F8",
+    "CategoryId": 31,
+    "Status": "True"
+  },
+  {
+    "OfferCategoryId": 18,
+    "OfferId": "8A527FD3-962A-4ABF-B18F-EFCDB6004F07",
+    "CategoryId": 1,
+    "Status": "True"
+  },
+  {
+    "OfferCategoryId": 19,
+    "OfferId": "8A527FD3-962A-4ABF-B18F-EFCDB6004F07",
+    "CategoryId": 4,
+    "Status": "True"
+  },
+  {
+    "OfferCategoryId": 20,
+    "OfferId": "8A527FD3-962A-4ABF-B18F-EFCDB6004F07",
+    "CategoryId": 25,
+    "Status": "True"
+  },
+  {
+    "OfferCategoryId": 21,
+    "OfferId": "1D394678-E0EB-4620-A1DE-F01C7768DDB3",
+    "CategoryId": 18,
+    "Status": "True"
+  },
+  {
+    "OfferCategoryId": 22,
+    "OfferId": "1D394678-E0EB-4620-A1DE-F01C7768DDB3",
+    "CategoryId": 19,
+    "Status": "True"
+  },
+  {
+    "OfferCategoryId": 23,
+    "OfferId": "3B4010D9-E137-465D-9A4B-D97B28B87BBE",
+    "CategoryId": 4,
+    "Status": "True"
+  },
+  {
+    "OfferCategoryId": 24,
+    "OfferId": "3B4010D9-E137-465D-9A4B-D97B28B87BBE",
+    "CategoryId": 5,
+    "Status": "True"
+  },
+  {
+    "OfferCategoryId": 25,
+    "OfferId": "3B4010D9-E137-465D-9A4B-D97B28B87BBE",
+    "CategoryId": 24,
+    "Status": "True"
+  }
+]

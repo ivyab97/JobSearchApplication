@@ -1,0 +1,43 @@
+﻿[
+
+  {
+    "StudyLevelId": 1,
+    "Name": "Primaria"
+  },
+
+  {
+    "StudyLevelId": 2,
+    "Name": "Secundaria"
+  },
+
+  {
+    "StudyLevelId": 3,
+    "Name": "Terciario"
+  },
+
+  {
+    "StudyLevelId": 4,
+    "Name": "Universitario"
+  },
+
+  {
+    "StudyLevelId": 5,
+    "Name": "Posgrado"
+  },
+
+  {
+    "StudyLevelId": 6,
+    "Name": "Master"
+  },
+
+  {
+    "StudyLevelId": 7,
+    "Name": "Doctorado"
+  },
+
+  {
+    "StudyLevelId": 8,
+    "Name": "Sin estudios"
+  }
+
+]
