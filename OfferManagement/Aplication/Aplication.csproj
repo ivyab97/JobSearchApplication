@@ -1,9 +1,32 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Domain\Domain.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Folder Include="DTO\Request\" />
+		<Folder Include="DTO\Response\" />
+		<Folder Include="Interfaces\IApplication\" />
+		<Folder Include="Interfaces\IApplicationStatusType\" />
+		<Folder Include="Interfaces\ICategory\" />
+		<Folder Include="Interfaces\IExperience\" />
+		<Folder Include="Interfaces\IOffer\" />
+		<Folder Include="Interfaces\IOfferCategory\" />
+		<Folder Include="Interfaces\IStudyLevel\" />
+		<Folder Include="UseCase\Services\SApplication\" />
+		<Folder Include="UseCase\Services\SApplicationStatusType\" />
+		<Folder Include="UseCase\Services\SCategory\" />
+		<Folder Include="UseCase\Services\SExperience\" />
+		<Folder Include="UseCase\Services\SOffer\" />
+		<Folder Include="UseCase\Services\SOfferCategory\" />
+		<Folder Include="UseCase\Services\SStudyLevel\" />
+	</ItemGroup>
 
 </Project>

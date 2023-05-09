@@ -1,9 +1,30 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Domain\Domain.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Folder Include="DTO\Request\" />
+		<Folder Include="DTO\Response\" />
+		<Folder Include="Interfaces\IAttached\" />
+		<Folder Include="Interfaces\IExperience\" />
+		<Folder Include="Interfaces\IResume\" />
+		<Folder Include="Interfaces\ISkill\" />
+		<Folder Include="Interfaces\IStudio\" />
+		<Folder Include="Interfaces\IStudyType\" />
+		<Folder Include="UseCase\Services\SAttached\" />
+		<Folder Include="UseCase\Services\SExperience\" />
+		<Folder Include="UseCase\Services\SResume\" />
+		<Folder Include="UseCase\Services\SSkill\" />
+		<Folder Include="UseCase\Services\SStudio\" />
+		<Folder Include="UseCase\Services\SStudyType\" />
+	</ItemGroup>
 
 </Project>
